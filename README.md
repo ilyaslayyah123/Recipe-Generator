@@ -55,10 +55,13 @@ Welcome to the **Smart Recipe Generator**, a Flask-based web application that us
 
 📱 Make the app mobile-responsive
 
-🔊 Add voice input support
-9. 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-🧑‍💻 Author
-Muhammad Ilyas – AI Enthusiast & Python Developer 
+🔊 Add voice input support.
 
-Connect with me on LinkedIn: www.linkedin.com/in/muhammad-ilyas-a59bb0289
+9. 🤝 Contributing.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+🧑‍💻 Author.
+Muhammad Ilyas – AI Enthusiast & Python Developer. 
+
+
+Connect with me on LinkedIn: www.linkedin.com/in/muhammad-ilyas-a59bb0289.
