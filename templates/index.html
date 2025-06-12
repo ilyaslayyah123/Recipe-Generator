@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recipe Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Recipe Generator 🍽️</h1>
+        <form action="/generate" method="POST">
+            <label for="ingredients">Available Ingredients:</label>
+            <textarea name="ingredients" required placeholder="e.g., chicken, tomatoes, garlic..."></textarea>
+            
+            <label for="preference">Dietary Preferences:</label>
+            <select name="preference" required>
+                <option value="None">None</option>
+                <option value="Vegetarian">Vegetarian</option>
+                <option value="Vegan">Vegan</option>
+                <option value="Halal">Halal</option>
+                <option value="Gluten-Free">Gluten-Free</option>
+            </select>
+            
+            <button type="submit">Generate Recipe</button>
+        </form>
+    </div>
+</body>
+</html>
+
+
+
+
+
