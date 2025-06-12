@@ -59,6 +59,6 @@ Welcome to the **Smart Recipe Generator**, a Flask-based web application that us
 9. 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 🧑‍💻 Author
-Muhammad Ilyas – AI Developer & Python Enthusiast
+Muhammad Ilyas – AI Enthusiast & Python Developer 
 
 Connect with me on LinkedIn: www.linkedin.com/in/muhammad-ilyas-a59bb0289
